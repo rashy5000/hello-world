@@ -1,5 +1,6 @@
 # hello-world
 my first repository
 
-hi i'm tash
-i like crisps and i make a mean dhal
+Hi, I'm Tash.
+
+I like crisps and I make a mean dhal
