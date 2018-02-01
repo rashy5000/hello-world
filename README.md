@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+my first repository
+
+hi i'm tash
+i like crisps and i make a mean dhal
